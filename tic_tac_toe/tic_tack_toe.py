@@ -137,7 +137,7 @@ for no in range(0,5):
     circle()
     check()
     
-print('its a draw')
+print('it is a draw')
 quit()
 
 
